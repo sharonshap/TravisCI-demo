@@ -1,7 +1,7 @@
 describe( 'calculator', function () {
-  //Numbers from 1-100, 5 round of test
+  //Numbers from 1-100, 5 round of test sharon
   for ( var i = 0; i < 3; i++ ) {
-
+    
     // Generate random numbers
     var
       number1 = Math.floor( ( Math.random() * 100 ) + 1 ),
